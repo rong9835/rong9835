@@ -9,17 +9,9 @@
 </div>
 
 <!-- 방문자 카운터 + 팔로워 -->
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-id&label=Profile%20Views&color=58A6FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/your-github-id?label=Followers&style=for-the-badge&color=blueviolet)
-![Stars](https://img.shields.io/github/stars/your-github-id?label=Stars&style=for-the-badge&color=yellow)
 
-</div>
-
-<br>
-
-## 🙋‍♀️ About Me
+##  About Me
 
 ```typescript
 const chorong = {
@@ -108,31 +100,6 @@ const chorong = {
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-id&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 프로젝트 | 설명 | 기술 스택 |
-|:---:|:---|:---|
-| **🥚 TimeEgg** | 위치 기반 타임캡슐 서비스. Toss Payments 연동, 20+ API 통합, 관리자 대시보드 구현 | `Next.js` `TypeScript` `Chart.js` |
-| **✈️ TripTalk** | AI 기반 여행 플랫폼. GraphQL + Apollo Client 활용 | `React` `TypeScript` `GraphQL` |
-
-</div>
-
-<br>
-
-## 📫 Contact
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your-id)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-notion-portfolio.notion.site)
 
 </div>
 
