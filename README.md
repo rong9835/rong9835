@@ -8,22 +8,7 @@
 
 </div>
 
-<!-- 방문자 카운터 + 팔로워 -->
 
-
-##  About Me
-
-```typescript
-const chorong = {
-  role: "Frontend Developer",
-  location: "Seoul, South Korea 🇰🇷",
-  background: "5+ years in service management → developer since Aug 2024",
-  currentlyLearning: ["Python", "Generative AI", "Agentic Web Services"],
-  mainProject: "TimeEgg - Location-based time capsule service",
-  strength: "User-centered thinking from service industry experience",
-  motto: "사용자가 머무는 1초를 위해 개발자는 100번을 고민한다",
-};
-```
 
 <br>
 
@@ -66,24 +51,6 @@ const chorong = {
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-id&theme=tokyonight&hide_border=true" alt="streak stats" />
-
-</div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
@@ -93,15 +60,6 @@ const chorong = {
 
 </div>
 
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-id&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <br>
 
