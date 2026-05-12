@@ -1,66 +1,100 @@
-<!-- 상단 웨이브 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Chorong's%20Dev%20Space&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20·%20TypeScript%20·%20Next.js&descAlignY=58&descSize=18)
+<!-- 상단 배너: 초롱's dev log -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=초롱's%20dev%20log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=사용자가%20머무는%201초를%20위해&descAlignY=62&descSize=18&descColor=a0a0c0)
 
 <!-- 타이핑 애니메이션 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+there!+I'm+Chorong+👋;Frontend+Developer+from+Seoul+🇰🇷;React+%7C+TypeScript+%7C+Next.js+enthusiast;Service+→+Code%2C+turning+UX+sense+into+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=22&duration=3500&pause=1000&color=8B95E8&center=true&vCenter=true&width=600&height=50&lines=안녕하세요%2C+프론트엔드+개발자+초롱입니다;사용자가+머무는+1초를+위해+100번+고민합니다;서비스에서+코드로%2C+UX+감각을+제품으로)](https://git.io/typing-svg)
 
 </div>
 
+<br>
 
+## 🙋‍♀️ About Me
+
+> **"5년간 매장에서 손님을 봤습니다. 이제는 화면 너머의 사용자를 봅니다."**
+
+서비스업에서 5년간 사람을 직접 마주하며 **'무엇이 사용자를 머무르게 하는가'** 를 배웠습니다.<br>
+2024년 8월, 그 감각을 코드로 옮기기 시작했습니다.
+
+- 💻 메인 스택은 **React · TypeScript · Next.js**
+- 🌱 현재 **Python · Flask** 와 **생성형 AI 에이전틱 웹서비스** 학습 중
+- 🤖 **Cursor · Claude Code** 로 AI 페어 프로그래밍 적극 활용
+- 🔍 사용자 한 명의 1초를 줄이기 위해 100번 고민하는 개발자를 지향합니다
+- 📍 서울에서 활동 중이며, **한국 스타트업** 합류를 목표로 합니다
 
 <br>
 
 ## 🛠️ Tech Stack
 
-### Frontend Core
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### State & Data
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+**Frontend**
 
-### Styling
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Backend & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**State & Styling**
 
-### DevOps & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### AI Dev Tools
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+**🌱 Currently Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**🤖 AI Pair Programming**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+</div>
 
 <br>
 
+## 🔥 Commit Streak
 
-## 🐍 Contribution Snake
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rong9835&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B95E8&ring=8B95E8&fire=D97757&currStreakLabel=8B95E8)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+## 🐍 Contribution
 
 <div align="center">
 
 ![Snake animation](https://github.com/rong9835/rong9835/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
 
+</div>
 
 <br>
 
-<!-- 하단 웨이브 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:crong9835@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.notion.so/30c0f211832680139ea6fa5bdb185b68">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
+</div>
+
+<br>
