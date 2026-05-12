@@ -56,8 +56,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/your-github-id/your-github-id/blob/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://github.com/rong9835/rong9835/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
